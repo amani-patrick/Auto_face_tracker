@@ -1,0 +1,14 @@
+{
+    "camera_index": 0,
+    "window_width": 640,
+    "window_height": 480,
+    "detection_scale_factor": 1.1,
+    "detection_min_neighbors": 5,
+    "movement_threshold": 5,
+    "smoothing_frames": 5,
+    "log_level": "INFO",
+    "save_video": false,
+    "video_output": "face_tracking_output.avi",
+    "show_fps": true,
+    "show_stats": true
+}
